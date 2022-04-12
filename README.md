@@ -26,7 +26,7 @@
 
 ### Development
 
-Run the portfolio in development mode when you are editing the files, this way you can see the changes in your browser instantly
+-   Run the portfolio in development mode when you are editing the files, this way you can see the changes in your browser instantly
 
 ```
 npm start
@@ -34,20 +34,13 @@ npm start
 
 ### Production
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-   Build the app for production to the `build` folder.
+-   Bundle React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+-   To build a production version of the portfolio just run the following command
 
 ```
 npm run build
-```
-
-To build a production version of the portfolio just run the following command
-
-```
-npm build:prod
 ```
 
 -   A `build` folder will be generated, these are the files that must be uploaded to your webserver
