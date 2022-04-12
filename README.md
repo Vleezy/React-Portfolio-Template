@@ -17,7 +17,7 @@
     -   `npm install`
     -   This may take some time, please be patient
 -   Done
-    -   Run it! `npm install`
+    -   Run it! `npm start`
     -   This may take some time, please be patient
 
 ## Usage
