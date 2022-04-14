@@ -24,9 +24,15 @@
     --lightModal:#e9e9e1;
 }
 
+/* Toggle Button CSS */
+.toggle-menu ul{
+    list-style: none;
+}
+
 .switch-checkbox {
     cursor: pointer;
     /* color:black; */
+    border-radius: 5px;
     
 }
 .toggle {
@@ -36,6 +42,7 @@
     height: 31px;
     width: 28px;
 }
+
 
 /* DARK MODE */
 
@@ -63,6 +70,9 @@
 }
 
 
+
+
+
 /* LIGHT MODE */
 
 .light__mode {
@@ -85,5 +95,12 @@
     background-color: var(--lightActive);
     color: var(--lightfontColor);
 }
+
+
+
+
+
+/* ----------------------------------- */
+
 
 

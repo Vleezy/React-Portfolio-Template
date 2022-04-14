@@ -5,11 +5,15 @@ import ThemeToggle from '../components/theme/ThemeToggle';
 const Index = () => {
 
     return <div>
-      <ThemeToggle/>
+    <ThemeToggle/>
+
+    <div>
   <h1>Hello World</h1>
   <h3>Index Page</h3>
   </div>
 
+
+</div>
 };
 
 export default Index; 
