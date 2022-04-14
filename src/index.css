@@ -4,15 +4,6 @@
   box-sizing: border-box;
 }
 
-html,body{
-  background: #fbfaf9;
-}
-
 html {
-
   font-family: "Poppins", sans-serif; 
-}
-
-main{
-  display:flex;
 }

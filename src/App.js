@@ -7,8 +7,8 @@ import Index from './pages/Index';
 import Other from './pages/Other';
 
 // Layout
-import Navigation from "./layout/Navigation";
-import Footer from "./layout/Footer";
+import Navigation from "./layout/navigation/Navigation";
+import Footer from "./layout/footer/Footer";
 
 //Components
 //HERE

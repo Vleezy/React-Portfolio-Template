@@ -1,8 +1,8 @@
-
+import "./Footer.css";
 
 const Footer = () => {
     return <nav className='footer'>
-		<ul className='container d-flex justify-content-between' style={{display:"flex", justifyContent:"space-between"}}>
+		<ul className='footer-container'>
 			<li>
 				<p>All rights reserved to their respective owner(s).</p>
 			</li>

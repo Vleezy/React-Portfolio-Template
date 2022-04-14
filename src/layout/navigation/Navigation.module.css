@@ -1,0 +1,14 @@
+
+.header a:hover,
+.header a.header{
+  color:#d3d3d3;
+}
+
+
+.header a:active,
+.header a.active {
+  color: #71a0ce;
+  padding-bottom: 0.25rem;
+  font-weight: 600;
+  /* border-bottom: 4px solid #95bcf0; */
+}
