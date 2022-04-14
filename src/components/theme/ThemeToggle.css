@@ -49,6 +49,7 @@
 
 .dark__mode {
     background-color: var(--dark);
+    color:white;
 }
 
 .dark__mode .switch-checkbox {
