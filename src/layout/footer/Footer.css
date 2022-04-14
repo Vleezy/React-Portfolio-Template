@@ -4,3 +4,19 @@
     list-style: none;
     padding-left: 0;
 }
+
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #efefef;
+    border-top:white solid 2px;
+    text-align: center;
+    box-shadow: 0 -5px 5px -5px #999;
+  }
+
+  .footer li{
+      padding-left:10px;
+      padding-right:10px;
+  }
