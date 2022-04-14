@@ -69,6 +69,10 @@
     color: var(--darkfontColor);
 }
 
+.dark__mode .footer{
+    background-color: var(--dark);
+    border-top: var(--dark)
+}
 
 
 
