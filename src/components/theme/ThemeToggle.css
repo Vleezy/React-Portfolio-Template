@@ -71,7 +71,8 @@
 
 .dark__mode .footer{
     background-color: var(--dark);
-    border-top: var(--dark)
+    border-top: black solid 1px;
+
 }
 
 
