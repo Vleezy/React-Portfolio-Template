@@ -1,4 +1,4 @@
-# Alonso's Portfolio
+# xxx's Portfolio
 
 ## Prerequisites
 
@@ -12,7 +12,7 @@
 
 -   First you should open terminal and navigate to the folder where you want to clone the portfolio
 -   Clone Portfolio
-    -   `git clone https://github.com/alonsocastilleja/alonso-portfolio.git`
+    -   `git clone https://github.com/`
 -   Install the dependencies
     -   `npm install`
     -   This may take some time, please be patient
@@ -22,7 +22,7 @@
 
 ## Usage
 
--   This is a portfolio curated for Alonso Castilleja.
+-   This is a portfolio curated for x.
 
 ### Development
 
